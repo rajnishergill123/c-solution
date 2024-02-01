@@ -13,8 +13,7 @@
     *563<br>
     *564<br>
     *565<br>
-    <H1>NOTE</H1>
-    <p>< this data will be related to the 2 year MCA student of GURU NANAK DEV UNIVERISTY(GNDU) </p>
+    <p><b>NOTE:</b> this data will be related to the 2 year MCA student of GURU NANAK DEV UNIVERISTY(GNDU) </p>
   </body>
 </body>
 </html>
