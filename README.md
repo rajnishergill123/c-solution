@@ -1,12 +1,13 @@
 <html>
 <h1>  STUDENT INFORMATION</h1>
-<body><b></b> STUDENT NAME</b><br>
+<body>
+  <b><i> STUDENT NAME</i></b><br>
   1.Rajni<br>
   2.taran<br>
   3.anjali<br>
   4.vishal<br>
   5.pooja<br>
-  <b><i>STUDENT ROLL NUMBER</i>I></b><<br>
+  <b><i>STUDENT ROLL NUMBER</i>I></b><br>
     * 561 <br>
     *562<br>
     *563<br>
