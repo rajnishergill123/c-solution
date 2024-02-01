@@ -1,6 +1,6 @@
-<html>
+                                                                                                                                          <html>
 <h1>  STUDENT INFORMATION</h1>
-  <body bgcolor="black">
+  <body >bgcolor="black"
   <b><i> STUDENT NAME</i></b><br>
   1.Rajni<br>
   2.taran<br>
