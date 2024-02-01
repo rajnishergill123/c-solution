@@ -19,6 +19,12 @@
     *. 5639876543<br>
     *. 5686543634<br>
     *. 5609753125<br>
+    <b><i>SMESTER</i>I></b><br>
+    *. 1<br>
+    *. 1<br>
+    *. 1<br>
+    *. 1<br>
+    *. 1<br>
     <p><b>NOTE:</b> this data will be related to the 2 year MCA student of GURU NANAK DEV UNIVERISTY(GNDU) </p>
   </body>
 </body>
